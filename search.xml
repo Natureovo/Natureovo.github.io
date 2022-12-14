@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>第三篇文章</title>
-      <link href="/2022/12/13/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/12/13/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>高数杂疑</title>
+      <link href="/2022/12/13/%E9%AB%98%E6%95%B0%E6%9D%82%E7%96%91/"/>
+      <url>/2022/12/13/%E9%AB%98%E6%95%B0%E6%9D%82%E7%96%91/</url>
       
-        <content type="html"><![CDATA[<h2 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h2><p>数风流人物 还看今朝</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 项目 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第二篇文章</title>
-      <link href="/2022/12/13/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/12/13/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h2><p>数风流人物 还看今朝</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="高数杂疑"><a href="#高数杂疑" class="headerlink" title="高数杂疑"></a>高数杂疑</h2><h1 id="第一章-函数-极限-连续"><a href="#第一章-函数-极限-连续" class="headerlink" title="第一章 函数 极限 连续"></a>第一章 函数 极限 连续</h1><h3 id="题目1"><a href="#题目1" class="headerlink" title="题目1"></a>题目1</h3><p>设 $ f(x) $ 在 $ x&#x3D;a $ 的某个邻域内有定义，则 $ f(x) $ 在 $ x&#x3D;a $ 处可导的一个充分条件是<br>(A) $$ \lim_{h \to +\infty} \ h[f(a + \frac 1h)-f(a)] $$存在;</p><p>(B) $ \lim_{n \to \infty} \ n[f(a + \frac 1n)-f(a)]  $存在;</p><p>(C) $ \lim_{h \to \ 0}\frac {f(a) - f(a - h)} {2h}$存在;</p><p>(D) $\lim_{h \to \ 0} \frac{f(a)-f(a-h)}{h}$存在;</p><h3 id="解答"><a href="#解答" class="headerlink" title="解答"></a>解答</h3><p>导数存在的条件是左右倒数都存在，且相等。A选项只能推出右倒数存在，B选项n趋向无穷在高数中约定为趋向于正无穷，B选项只能推出右倒数存在，D选项h趋向于0可正可负，左右倒数都存在，D选项正确。C选项等价于 $\lim_{h \to \ 0}\frac 12 [\frac{f(a+h)-f(a)} {h} \quad -\frac {f(a-h)-f(a)}{h}]$， 左右两边相减整体极限存在推不出这两个极限都存在或者任意一个极限存在，所以C选项错误。  </p><table><thead><tr><th align="center">存在+&#x2F;-不存在&#x3D;不存在</th><th align="center">不存在+&#x2F;-不存在&#x3D;不一定</th></tr></thead><tbody><tr><td align="center">存在X&#x2F;(&#x2F;)不存在&#x3D;不一定</td><td align="center">不存在X&#x2F;(&#x2F;)不存在&#x3D;不一定</td></tr></tbody></table><h1 id="第二章-一元函数微分学"><a href="#第二章-一元函数微分学" class="headerlink" title="第二章 一元函数微分学"></a>第二章 一元函数微分学</h1><h1 id="第三章-一元函数积分学"><a href="#第三章-一元函数积分学" class="headerlink" title="第三章 一元函数积分学"></a>第三章 一元函数积分学</h1><h1 id="第四章-向量代数与空间解析几何"><a href="#第四章-向量代数与空间解析几何" class="headerlink" title="第四章 向量代数与空间解析几何"></a>第四章 向量代数与空间解析几何</h1><h1 id="第五章-多元函数微分学"><a href="#第五章-多元函数微分学" class="headerlink" title="第五章 多元函数微分学"></a>第五章 多元函数微分学</h1><h1 id="第六章-多元函数积分学"><a href="#第六章-多元函数积分学" class="headerlink" title="第六章 多元函数积分学"></a>第六章 多元函数积分学</h1><h1 id="第七章-无穷级数"><a href="#第七章-无穷级数" class="headerlink" title="第七章 无穷级数"></a>第七章 无穷级数</h1><h1 id="第八章-微分方程"><a href="#第八章-微分方程" class="headerlink" title="第八章 微分方程"></a>第八章 微分方程</h1>]]></content>
       
       
       <categories>
@@ -42,11 +23,24 @@
     
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2022/12/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/12/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>无题</title>
+      <link href="/2022/12/13/%E6%97%A0%E9%A2%98/"/>
+      <url>/2022/12/13/%E6%97%A0%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2><p>雄关漫道真如铁 而今迈步从头越</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="无题"><a href="#无题" class="headerlink" title="无题"></a>无题</h2><p>数风流人物 还看今朝</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>广度优先搜索汇总</title>
+      <link href="/2022/12/12/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E6%B1%87%E6%80%BB/"/>
+      <url>/2022/12/12/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<h2 id="BFS"><a href="#BFS" class="headerlink" title="BFS"></a>BFS</h2><h2 id="刷题随笔"><a href="#刷题随笔" class="headerlink" title="刷题随笔"></a><a href="https://www.acwing.com/file_system/file/content/whole/index/content/5630083/">刷题随笔</a></h2><h1 id="BFS-1"><a href="#BFS-1" class="headerlink" title="BFS"></a>BFS</h1><p>广度优先搜索</p><hr><h2 id="Flood-Fill"><a href="#Flood-Fill" class="headerlink" title="Flood Fill"></a>Flood Fill</h2><blockquote><p>可以在线性时间复杂度内，找到某个点所在的连通块。</p></blockquote><h3 id="AcWing-1097-池塘计数"><a href="#AcWing-1097-池塘计数" class="headerlink" title="AcWing 1097.池塘计数"></a><a href="https://www.acwing.com/file_system/file/content/whole/index/content/5613316/">AcWing 1097.池塘计数</a></h3><h3 id="AcWing-1098-城堡问题"><a href="#AcWing-1098-城堡问题" class="headerlink" title="AcWing 1098.城堡问题"></a><a href="https://www.acwing.com/file_system/file/content/whole/index/content/5622685/">AcWing 1098.城堡问题</a></h3><h3 id="AcWing-1106-山谷和山峰"><a href="#AcWing-1106-山谷和山峰" class="headerlink" title="AcWing 1106.山谷和山峰"></a><a href="https://www.acwing.com/file_system/file/content/whole/index/content/5623349/">AcWing 1106.山谷和山峰</a></h3><h3 id="AcWing-3371-舒适的奶牛"><a href="#AcWing-3371-舒适的奶牛" class="headerlink" title="AcWing 3371.舒适的奶牛"></a><a href="https://www.acwing.com/solution/content/116006/">AcWing 3371.舒适的奶牛</a></h3><hr><h2 id="最短路模型"><a href="#最短路模型" class="headerlink" title="最短路模型"></a>最短路模型</h2><blockquote><p>可以在线性的时间复杂度内，找到所有点到起点的最短距离(所有边权相等)。</p></blockquote><h3 id="AcWing-1076-迷宫问题"><a href="#AcWing-1076-迷宫问题" class="headerlink" title="AcWing 1076.迷宫问题"></a><a href="https://www.acwing.com/solution/content/115901/">AcWing 1076.迷宫问题</a></h3><h3 id="AcWing-188-武士风度的牛"><a href="#AcWing-188-武士风度的牛" class="headerlink" title="AcWing 188.武士风度的牛"></a><a href="https://www.acwing.com/solution/content/115940/">AcWing 188.武士风度的牛</a></h3><h3 id="AcWing-1100-抓住那头牛"><a href="#AcWing-1100-抓住那头牛" class="headerlink" title="AcWing 1100.抓住那头牛"></a><a href="https://www.acwing.com/solution/content/115940/">AcWing 1100.抓住那头牛</a></h3><hr><h2 id="多源BFS"><a href="#多源BFS" class="headerlink" title="多源BFS"></a>多源BFS</h2><blockquote><p>解决多个起点bfs的问题，可以通过建立<strong>虚拟源点</strong>的方式，可以将<strong>多源 BFS</strong>转换为<strong>单源 BFS</strong>问题。</p></blockquote><h3 id="AcWing-173-矩阵距离"><a href="#AcWing-173-矩阵距离" class="headerlink" title="AcWing 173.矩阵距离"></a><a href="https://www.acwing.com/solution/content/116058/">AcWing 173.矩阵距离</a></h3><hr><h2 id="最小步数模型"><a href="#最小步数模型" class="headerlink" title="最小步数模型"></a>最小步数模型</h2><blockquote><p>把当前状态变为目标状态的最小步数。</p></blockquote><h3 id="AcWing-1107-魔板"><a href="#AcWing-1107-魔板" class="headerlink" title="AcWing 1107.魔板"></a><a href="https://www.acwing.com/solution/content/116075/">AcWing 1107.魔板</a></h3><hr><h2 id="双端队列广搜"><a href="#双端队列广搜" class="headerlink" title="双端队列广搜"></a>双端队列广搜</h2><blockquote><p>主要解决图中边的权值只有0或者1的最短路问题。当前可以扩展到的点的边权为0时，将其加入队首；边权为1时，将其加入队尾。</p></blockquote><h3 id="AcWing-175-电路维修"><a href="#AcWing-175-电路维修" class="headerlink" title="AcWing 175.电路维修"></a><a href="https://www.acwing.com/solution/content/116177/">AcWing 175.电路维修</a></h3><hr><h2 id="双向广搜"><a href="#双向广搜" class="headerlink" title="双向广搜"></a>双向广搜</h2><blockquote><p>从起点和终点同时开始搜索，当两个搜索相遇时结束搜索.</p></blockquote><h3 id="AcWing-190-字串变换"><a href="#AcWing-190-字串变换" class="headerlink" title="AcWing 190.字串变换"></a><a href="https://www.acwing.com/solution/content/116394/">AcWing 190.字串变换</a></h3><hr><h2 id="A"><a href="#A" class="headerlink" title="A*"></a>A*</h2><h3 id="AcWing-178-第K短路"><a href="#AcWing-178-第K短路" class="headerlink" title="AcWing 178.第K短路"></a><a href="">AcWing 178.第K短路</a></h3><h3 id="AcWing-179-八数码"><a href="#AcWing-179-八数码" class="headerlink" title="AcWing 179.八数码"></a><a href="">AcWing 179.八数码</a></h3><hr>]]></content>
       
       
       <categories>
@@ -58,7 +52,7 @@
       
         <tags>
             
-            <tag> acwing </tag>
+            <tag> bfs </tag>
             
         </tags>
       
@@ -70,9 +64,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -81,9 +75,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -114,11 +108,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/universe.js"/>
-      <url>/js/universe.js</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[function dark() {window.requestAnimationFrame=window.requestAnimationFrame||    window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||    window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById    ("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];    function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute    ("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);    for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),    s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!    this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),    this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),    this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),    this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=    function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},    this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,    (this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),    this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);    else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);    for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",    h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",    h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,    !1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},    setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}    function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");    for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -136,22 +130,11 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/js/universe.js"/>
+      <url>/js/universe.js</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[function dark() {window.requestAnimationFrame=window.requestAnimationFrame||    window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||    window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById    ("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];    function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute    ("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);    for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),    s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!    this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),    this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),    this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),    this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=    function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},    this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,    (this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),    this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);    else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);    for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",    h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",    h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,    !1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},    setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}    function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");    for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
       
     </entry>
     
@@ -161,6 +144,17 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
