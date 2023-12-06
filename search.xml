@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>无题</title>
-      <link href="/2023/12/06/2023-12-6-test/"/>
-      <url>/2023/12/06/2023-12-6-test/</url>
+      <title>测试</title>
+      <link href="/2023/12/12/2023-12-6-%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/12/12/2023-12-6-%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2><p>test</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> bfs </tag>
+            
+        </tags>
       
     </entry>
     
